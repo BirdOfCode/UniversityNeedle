@@ -1,0 +1,65 @@
+#boxHeader{
+    background: black;
+}
+
+#boxHome{
+    background: gray;
+}
+
+#boxBottom{
+    background: blue;
+}
+
+.h1-caret{
+    margin-left:4px;
+    margin-right:10px;
+    border-top:8px dashed;
+    border-right: 8px solid transparent;
+    border-left: 8px solid transparent;
+}
+
+.h2-caret{
+    margin-left:3px;
+    margin-right:8px;
+    border-top:6px dashed;
+    border-right: 6px solid transparent;
+    border-left: 6px solid transparent;
+}
+
+.h3-caret{
+    margin-right: 6px;
+}
+
+.levle2-title-list{
+    padding-left: 23px;
+}
+
+.levle3-title-list{
+    padding-left: 19px;
+}
+
+.levle4-title-list{
+    padding-left: 27px;
+}
+
+.font-size-26{
+    font-size: 26px;
+}
+
+.font-size-20{
+    font-size: 20px;
+}
+
+.reset-container{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.reset-h4{
+    margin-top: 14px;
+    margin-bottom: 14px;
+}
+
+h1,h2,h3,h4{
+    cursor: pointer;
+}
